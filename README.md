@@ -1,7 +1,7 @@
 # Reinforcement/Adaptive Transformer (RAT)
 
 This folder contains the modular implementation of the Reinforcement/Adaptive Transformer or RAT, designed for advanced language modeling tasks. 
-![Model Architecture](assests/Architechture.png)
+<img src="assests/Architechture.png" alt="Model Architecture" width="50%"/>
 
 ## Components
 
