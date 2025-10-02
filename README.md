@@ -1,8 +1,8 @@
 # Reinforcement/Adaptive Transformer (RAT)
 
-<p align="center">
-  <img src="assests/Architechture.png" alt="Model Architecture" width="600"/>
-</p>
+
+  <img src="assests/Architechture.png" alt="Model Architecture" width="400" height="800"/>
+
 
 This is modular implementation of the Reinforcement/Adaptive Transformer or RAT, designed for advanced language modeling tasks.
 
