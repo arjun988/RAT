@@ -1,7 +1,10 @@
 # Reinforcement/Adaptive Transformer (RAT)
 
-This folder contains the modular implementation of the Reinforcement/Adaptive Transformer or RAT, designed for advanced language modeling tasks. 
-<img src="assests/Architechture.png" alt="Model Architecture" width="50%"/>
+<p align="center">
+  <img src="assests/Architechture.png" alt="Model Architecture" width="600"/>
+</p>
+
+This is modular implementation of the Reinforcement/Adaptive Transformer or RAT, designed for advanced language modeling tasks.
 
 ## Components
 
@@ -12,4 +15,5 @@ This folder contains the modular implementation of the Reinforcement/Adaptive Tr
 - **EnhancedGPTRAT**: The main transformer model, stacking multiple RAT blocks, with token and position embeddings, and output projection.
 
 ---
+
 This README describes only the Transformer architecture. For training, data, and generation utilities, refer to the main project files.
