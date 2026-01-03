@@ -48,7 +48,7 @@ pip install rat-transformer
 #### From Source
 ```bash
 # Clone the repository
-git clone https://github.com/arjun988/RAT.git
+git clone https://github.com/ReinforcedAdaptiveTransformer-RAT/RAT.git
 cd RAT
 
 # Install in development mode
