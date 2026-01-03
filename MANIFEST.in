@@ -1,0 +1,27 @@
+# Include additional files
+include README.md
+include LICENSE.txt
+include requirements.txt
+
+# Include assets
+recursive-include rat/assets *
+
+# Include configuration files
+recursive-include rat/config *
+
+# Include documentation
+recursive-include docs *
+
+# Exclude development files
+global-exclude *.pyc
+global-exclude __pycache__
+global-exclude .pytest_cache
+global-exclude .coverage
+global-exclude *.egg-info
+global-exclude build
+global-exclude dist
+global-exclude .tox
+global-exclude .env
+exclude .gitignore
+exclude test_rat.py
+exclude test_neuroforge.py
