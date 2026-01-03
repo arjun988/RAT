@@ -12,13 +12,13 @@ with open(os.path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name="rat-transformer",
-    version="0.1.1",
+    version="0.1.2",
     author="RAT Team",
     author_email="team@rat-transformer.ai",
     description="RAT: Reinforced Adaptive Transformer",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/arjun988/RAT",
+    url="https://github.com/ReinforcedAdaptiveTransformer-RAT/RAT",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -34,7 +34,7 @@ setup(
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
         "Topic :: Scientific/Engineering :: Information Analysis",
     ],
-    keywords="transformer attention reinforcement-learning nlp language-model rat",
+    keywords="transformer attention reinforcement-learning nlp language-model rat ml ai machine-learning LLM pytorch",
     python_requires=">=3.8",
     install_requires=[
         "torch>=2.0.0",

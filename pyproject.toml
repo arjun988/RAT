@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rat-transformer"
-version = "0.1.1"
+version = "0.1.2"
 description = "RAT: Reinforced Adaptive Transformer"
 readme = "README.md"
 license = {text = "MIT"}
@@ -58,10 +58,10 @@ rat-eval = "rat.cli:eval_command"
 rat-test = "rat.cli:test_command"
 
 [project.urls]
-Homepage = "https://github.com/arjun988/RAT"
-Repository = "https://github.com/arjun988/RAT"
-Issues = "https://github.com/arjun988/RAT/issues"
-Documentation = "https://github.com/arjun988/RAT#readme"
+Homepage = "https://reinforcedadaptivetransformer.vercel.app/"
+Repository = "https://github.com/ReinforcedAdaptiveTransformer-RAT/RAT"
+Issues = "https://github.com/ReinforcedAdaptiveTransformer-RAT/RAT/issues"
+Documentation = "https://github.com/ReinforcedAdaptiveTransformer-RAT/RAT#readme"
 
 [tool.setuptools.packages.find]
 where = ["."]
