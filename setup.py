@@ -12,7 +12,7 @@ with open(os.path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name="rat-transformer",
-    version="0.1.0",
+    version="0.1.1",
     author="RAT Team",
     author_email="team@rat-transformer.ai",
     description="RAT: Reinforced Adaptive Transformer",

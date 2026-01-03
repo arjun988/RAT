@@ -20,19 +20,19 @@ RAT (Reinforced Adaptive Transformer) is a next-generation transformer architect
 ## 🏗️ Architecture Components
 
 ### Core Components
-- **`NeuroForge`**: Main transformer model with adaptive attention
+- **`RAT`**: Main transformer model with adaptive attention
 - **`AdaptivePolicyAttention`**: Multi-policy attention with reinforcement learning
-- **`NeuroForgeBlock`**: Transformer block with attention, FFN, and temporal conv
+- **`RATBlock`**: Transformer block with attention, FFN, and temporal conv
 - **`SwiGLUFeedForward`**: Efficient feed-forward network
 - **`RotaryPositionEmbedding`**: Rotary positional encodings
 
 ### Training & Inference
-- **`NeuroForgeTrainer`**: Advanced trainer with logging and checkpointing
-- **`NeuroForgeGenerator`**: Optimized text generation with multiple strategies
-- **`NeuroForgeDataset`**: Enhanced dataset with preprocessing and validation
+- **`RATTrainer`**: Advanced trainer with logging and checkpointing
+- **`RATGenerator`**: Optimized text generation with multiple strategies
+- **`RATDataset`**: Enhanced dataset with preprocessing and validation
 
 ### Utilities
-- **`NeuroForgeLogger`**: Comprehensive logging system
+- **`RATLogger`**: Comprehensive logging system
 - **`ModelCheckpoint`**: Automatic checkpoint management
 - **Configuration validation**: Input sanitization and error checking
 
@@ -191,4 +191,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-*NeuroForge: Forging the future of adaptive transformers*
+*RAT: Reinforced Adaptive Transformer - Revolutionizing language models with reinforcement learning*
