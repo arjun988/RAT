@@ -1,6 +1,13 @@
 # RAT: Reinforced Adaptive Transformer
 
 <p align="center">
+  <a href="https://reinforcedadaptivetransformer.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/📖_Documentation-Visit_Website-blue?style=for-the-badge&logo=vercel" alt="Visit Documentation"/>
+  </a>
+  <a href="https://pypi.org/project/rat-transformer/" target="_blank">
+    <img src="https://img.shields.io/pypi/v/rat-transformer.svg?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9" alt="PyPI Version"/>
+  </a>
+  <br/>
   <img src="assests/Architechture.png" alt="RAT Architecture" width="400" height="800"/>
 </p>
 
