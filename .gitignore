@@ -152,10 +152,6 @@ tensorboard/
 mlruns/
 lightning_logs/
 
-# Test files
-test_*.py
-*_test.py
-tests/
 
 # Temporary files
 *.tmp
